@@ -14,13 +14,13 @@
   
   <h1>
   Hi
-  <img src="https://giphy.com/embed/3P6rLkx3IWvjq" width="60px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   
 </h1>
 </div>
 <!--   <img src="https://i.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.webp" width="600"/> -->
 
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/deku-reading-comic-wintn3ky37koreln.webp" >
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJrcmQzZG5tOHIwbzVqY2JmOGY5b3lxN3RxcGFzajV2amU3MDZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif" >
 
 ### :man_technologist: About Me :
 AI/ML enthusiast and a Full Stack Developer
@@ -68,15 +68,15 @@ AI/ML enthusiast and a Full Stack Developer
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThapaVinay&theme=aura" alt="ThapaVinay" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThapaVinay&theme=dracula" alt="ThapaVinay" />
 </p>
 <p align="center">
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm" width="494"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=aura" alt="ThapaVinay" width="650"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ThapaVinay" width="650"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=aura" alt="h-sm" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=dracula" alt="h-sm" width="330"/>
 </p>
   
   <a href="https://github.com/ThapaVinay">
