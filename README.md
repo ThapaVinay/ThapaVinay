@@ -1,5 +1,5 @@
 <h1></h1>
-
+<div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/vinay-singh-thapa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -68,15 +68,15 @@ AI/ML enthusiast and a Full Stack Developer
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThapaVinay&theme=dracula" alt="ThapaVinay" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThapaVinay&theme=gotham" alt="ThapaVinay" />
 </p>
 <p align="center">
 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm" width="494"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ThapaVinay" width="650"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ThapaVinay" width="650"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=dracula" alt="h-sm" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThapaVinay&show_icons=true&locale=en&layout=compact&theme=gotham" alt="h-sm" width="330"/>
 </p>
   
   <a href="https://github.com/ThapaVinay">
@@ -89,6 +89,6 @@ AI/ML enthusiast and a Full Stack Developer
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=H-SM&color=5c77d6" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ThapaVinay&color=5c77d6" alt=""/>
 </div>
 
