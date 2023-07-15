@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 AI/ML enthusiast and a Full Stack Developer
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DevOps**
 - 💬 Tending to make a few **web-projects**
 - 📫 How to reach me: thechampthapa@gmail.com
 ###
