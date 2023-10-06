@@ -57,11 +57,10 @@ AI/ML enthusiast and a Full Stack Developer
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="cplusplus" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="cplusplus" />
   
-  
 
-
-  
  <h1></h1>
+
+[![An image of @thapavinay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thapavinay)](https://holopin.io/@thapavinay)
 
   
 ### :point_right: My Stats :point_left:
