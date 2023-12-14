@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJrcmQzZG5tOHIwbzVqY2JmOGY5b3lxN3RxcGFzajV2amU3MDZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3P6rLkx3IWvjq/giphy.gif" >
 
-### :man_technologist: About Me :
+### About Me :
 AI/ML enthusiast and a Full Stack Developer
 - 🌱 I’m currently learning **React Native**
 - 💬 Tending to make a few **web-projects**
@@ -63,7 +63,7 @@ AI/ML enthusiast and a Full Stack Developer
 [![An image of @thapavinay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thapavinay)](https://holopin.io/@thapavinay)
 
   
-### :point_right: My Stats :point_left:
+### My Stats :
 
 
 <p align="center">
