@@ -26,7 +26,7 @@
 AI/ML enthusiast and a Full Stack Developer
 - 🌱 I’m currently learning **NLP**
 - 💬 Tending to make a few **nlp-projects**
-- 📫 How to reach me: thechampthapa@gmail.com
+- 📫 How to reach me: thapavinay042@gmail.com
 ###
 
 <p><br><br></p>
